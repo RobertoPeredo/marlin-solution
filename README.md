@@ -58,6 +58,11 @@ https://documenter.getpostman.com/view/10807232/UyxjFkx7
 ## Front-End
 https://github.com/RobertoPeredo/Marlin
 
+**Technologies**
+* Javascript
+* HTML
+* CSS
+
 
 ## Project deployment
 https://robertoperedo.github.io/Marlin/
