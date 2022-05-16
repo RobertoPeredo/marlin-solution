@@ -46,5 +46,5 @@ https://documenter.getpostman.com/view/10807232/UyxjFkx7
 
 https://github.com/RobertoPeredo/Marlin
 
-## Despliegue del proyecto
+## Project deployment
 https://robertoperedo.github.io/Marlin/
