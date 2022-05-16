@@ -1,5 +1,9 @@
 ﻿# Marlin solution
 
+## MArlin Documentation
+[Project MARLIN.pdf](https://github.com/Drizif/marlin-solution/files/8701577/Project.MARLIN.pdf)
+
+
 ## Architecture
 <img src="/docs/diagrams/architecture_diagram.drawio.png" alt="Architecture diagram"/>
 
