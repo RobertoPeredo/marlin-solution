@@ -21,6 +21,9 @@
 ## Database
 https://github.com/Michelleeeer/BD_Marlin-
 
+**Technologies**
+* Microsoft SQL Server
+* Azure SQL Database
 
 ## Back-End
 https://github.com/Drizif/marlin-api
