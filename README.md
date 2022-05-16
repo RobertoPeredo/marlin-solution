@@ -3,6 +3,9 @@
 ## Architecture
 https://github.com/Drizif/marlin-solution/blob/main/docs/diagrams/architecture_diagram.drawio.png
 
+##Screenshots
+https://github.com/Drizif/marlin-solution/tree/main/docs/screenshots
+
 ## Database
 
 https://github.com/Michelleeeer/BD_Marlin-
