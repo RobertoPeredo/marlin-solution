@@ -1,13 +1,16 @@
 ﻿# Marlin solution
 
 ## Architecture
-https://github.com/Drizif/marlin-solution/blob/main/docs/diagrams/architecture_diagram.drawio.png
+<img src="/docs/diagrams/architecture_diagram.drawio.png" alt="Architecture diagram"/>
 
 ## Screenshots
 https://github.com/Drizif/marlin-solution/tree/main/docs/screenshots
 
 ### Azure all resources
-<img src="/docs/screenshots/azure_all_resources.png" alt="My cool logo"/>
+<img src="/docs/screenshots/azure_all_resources.png" alt="All resources"/>
+
+### Azure App Service
+<img src="/docs/screenshots/azure_app_service_api.png" alt="App Service"/>
 
 ## Database
 
