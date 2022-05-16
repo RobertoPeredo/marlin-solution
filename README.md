@@ -1,6 +1,6 @@
 ﻿# Marlin solution
 
-## MArlin Documentation
+## Marlin Documentation
 [Project MARLIN.pdf](https://github.com/Drizif/marlin-solution/files/8701577/Project.MARLIN.pdf)
 
 
