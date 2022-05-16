@@ -6,6 +6,9 @@ https://github.com/Drizif/marlin-solution/blob/main/docs/diagrams/architecture_d
 ## Screenshots
 https://github.com/Drizif/marlin-solution/tree/main/docs/screenshots
 
+### Azure all resources
+<img src="/docs/screenshots/azure_all_resources.png" alt="My cool logo"/>
+
 ## Database
 
 https://github.com/Michelleeeer/BD_Marlin-
