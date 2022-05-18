@@ -1,5 +1,17 @@
 ﻿# Marlin solution
 
+La contaminación de nuestros mares parece NO ser tan relevante en nuestro día a día. Es por esto que, mientras existen diversas formas de avisar a la comunidad cuando es necesario no salir, o usar cubrebocas por la mala calidad del aire. No pasa lo mismo con nuestras playas, centros turísticos importantes y comerciales.
+
+
+Esto también hace que la población no sea consciente de qué tan contaminadas están las playas. La solución que nosotros presentamos es sencilla y práctica: proponemos una website a través del cual se explique de manera dinámica el estado actual de las principales playas ya sean centros turísticos o comerciales. La información pretende ser verídica y explicada en un lenguaje común que cualquier usuario pueda consultar y entender.
+
+
+Un plus en nuestra página es la comunicación de internet. Tenemos un espacio habilitado para que los usuarios comenten e interactúen sobre sus propias experiencias en los cuerpos acuáticos que visiten.
+
+
+Finalmente, nuestra página servirá para crear conciencia de como nuestras acciones han contaminado nuestros cuerpos acuáticos, ya que, si bien hoy en día la mayoría de las playas son aptas, pretendemos a través de nuestra página reflejar la mejora o el incremento de daño en las playas.
+
+
 ## Marlin Documentation
 [Project MARLIN.pdf](https://github.com/Drizif/marlin-solution/files/8701577/Project.MARLIN.pdf)
 
