@@ -82,3 +82,12 @@ https://github.com/RobertoPeredo/Marlin
 
 ## Project deployment
 https://robertoperedo.github.io/Marlin/
+
+## Website view 
+![image](https://user-images.githubusercontent.com/99369122/168943699-d3f9cd4d-fac5-492f-9324-43d43aaa0f0a.png)
+
+<br>
+
+![image](https://user-images.githubusercontent.com/99369122/168943764-2608b66b-8412-4243-a44c-5ed0e00669f3.png)
+
+
